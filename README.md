@@ -1,6 +1,6 @@
 # FILE-operations-in-c-from-scratch
 The header file.h is used in C programming language to perform file I/O operations such as reading from file, writing to file etc<br>
-Such similar operations can be performed by using the functions which I have written.<br>
+Such similar operations can be performed by using the functions described below.<br>
 <br>The user can call the following functions to perform file manipulation using the file poineter type FILES*:<br>
 <ul>
   <li>FILES *ifopen(char *pathname, char *mode)</li>
